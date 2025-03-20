@@ -28,8 +28,8 @@ This is useful if you need a runner that automatically resets after each job run
 1. **Clone the Repository:**  
    Clone this repo to your server or local machine:
    ```bash
-   git clone https://github.com/Gr33ndev/real-ephemeral-runner/
-   cd real-ephemeral-runner
+   git clone https://github.com/Gr33ndev/permanent-ephemeral-runner/
+   cd permanent-ephemeral-runner
    ```
 
 2. **Configure the Script:**  
