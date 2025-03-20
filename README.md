@@ -1,4 +1,4 @@
-# Real Ephemeral Runner for GitHub Actions
+# Permanent Ephemeral Runner for GitHub Actions
 
 This repository provides a Bash script that automates the lifecycle of a GitHub Actions runner in **ephemeral mode**. The script periodically:
 
